@@ -5,7 +5,7 @@ Classes are a key component of 'Object Oriented Programming'.
 The main method is where execution begins.
  */
 
-public class JavaBasics {
+public class Output {
     /*
     The 'public' modifier in a class or a mathod determines its accessibility.
     The 'static' keyword means the method belongs to the class.

@@ -1,2 +1,2 @@
 # matcha
-Java programmint primer. 
+Java programming primer. 

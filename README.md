@@ -1,4 +1,4 @@
-# Java is a high-level, general-purpose programming language known for its simplicity, reliability, and portability. Here's an overview of Java programming:
+## Java is a high-level, general-purpose programming language known for its simplicity, reliability, and portability. Here's an overview of Java programming:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzMyaWUyaWI4NTc3OGoxYnExd2dmdGZnaHl3cmR0NXMwOGplenltbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Z1fKb6plPLM3hMbLs/giphy.gif" width = "300"/>

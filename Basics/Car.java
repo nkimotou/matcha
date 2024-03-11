@@ -32,7 +32,7 @@ public class Car {
 
     // DisplayInfo method to print to the console
     public void displayInfo() {
-        System.out.println("My car is a  " + brand + " " + model + " " + year);
+        System.out.println("My car is a " + brand + " " + model + " " + year);
     }
 
     // Main method to demonstrate the usage of Car class
@@ -42,8 +42,8 @@ public class Car {
         Car car2 = new Car("Nissan", "Fair Lady Z", 1985);
 
         // Accessing instance variables and methods
-        System.out.println("I have one  " + car1.getBrand() + " " + car1.getModel() + " " + car1.getYear() + "in my inventory");
-        System.out.println("I have one  " + car2.getBrand() + " " + car2.getModel() + " " + car2.getYear() + "in my inventory");
+        System.out.println("I have one " + car1.getBrand() + " " + car1.getModel() + " " + car1.getYear() + " in my inventory");
+        System.out.println("I have one " + car2.getBrand() + " " + car2.getModel() + " " + car2.getYear() + " in my inventory");
 
         // Calling displayInfo() method
         car1.displayInfo();

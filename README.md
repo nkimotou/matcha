@@ -28,8 +28,9 @@ Java is widely used for a variety of applications, including web development (Ja
 ## Community and Ecosystem:
 Java has a large and active developer community, contributing to its rich ecosystem of libraries, frameworks, and tools. Popular Java frameworks and libraries include Spring, Hibernate, Apache Maven, and Apache Tomcat, among others.
 
-## License
+<div id="footer" align="center">
+  <img src="https://cdn.svgporn.com/logos/java.svg"/>
+</div>
 
-This primer is licensed under the [MIT License](LICENSE.md). Feel free to use and modify the content for your learning purposes.
 
 

@@ -29,7 +29,7 @@ Java is widely used for a variety of applications, including web development (Ja
 Java has a large and active developer community, contributing to its rich ecosystem of libraries, frameworks, and tools. Popular Java frameworks and libraries include Spring, Hibernate, Apache Maven, and Apache Tomcat, among others.
 
 <div id="footer" align="center">
-  <img src="https://cdn.svgporn.com/logos/java.svg"/>
+  <img src="https://cdn.svgporn.com/logos/java.svg" width = "250"/>
 </div>
 
 
